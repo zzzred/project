@@ -1,0 +1,277 @@
+.main{
+	width: 1122px;
+	height: 100%;
+	margin: 0 auto;
+}
+.top{
+	height: 97px;
+	background-color:white
+	overflow: hidden;
+}
+.top-left{
+	float: left;
+	width: 180px;
+	padding: 31px 0 0 48px;
+	
+}
+.top-left a{
+	font-size: 10px;
+	color: #000;
+	font-weight: 900;
+	display: inline-block;
+	
+}
+.top-middle{
+	float: left;
+	width: 160px;
+	padding: 31px 0 0 282px;
+}
+.top-left p{
+	display: inline-block;
+}
+.top-right{
+	width: 60px;
+	height: 15px;
+	float: left;
+	margin: 33px 0 0 350px;
+}
+.top-right a{
+	color: #000;
+}
+.left_1{
+	float: left;
+	padding-right: 20px;
+}
+/*****landing*****/
+.landing{
+	width: 222px;
+	height: 260px;
+	background: #ffffff;
+	display: none;
+	position: absolute;
+	top: 56px;
+	left: 1000px;
+	text-align: center;
+	
+}
+.btn-default{
+	width: 173px;
+	height: 35px;
+	margin-top: 45px;
+	background: #000;
+	color: #ffffff;
+}
+.form-1{
+	height: 30px;
+	margin-top: 25px;
+}
+.form-2{
+	height: 30px;
+	margin-top: 25px;
+}
+.top-right .left_1:hover +.landing{
+	display: block;
+}
+/*****landing end*****/
+
+/****************** top end********************/
+.nav{
+	height: 31px;
+}
+.nav ul{
+	float: left;
+	padding-left: 369px;
+}
+.nav ul li{
+	float: left;
+	width: 74px;
+}
+.nav a{
+	color: #000000;
+}
+/************************* nav end***************/
+.banner img{
+	width: 100%;
+}
+/************************ banner end **********************/
+.discover{
+	height: 140px;
+}
+.discover i{
+	text-align: center;
+	display: inline-block;
+	padding: 93px 0 0 546px;
+}
+/*************************** discover end *****************/
+.shoes{
+	height: 662px;
+}
+.shoes .shoes-left img{
+	width:556.59px ;
+	height:556.59px;
+	float: left;
+}
+.shoes .shoes-right img{
+	width:556.59px ;
+	height:556.59px;
+	padding-left: 8px;
+}
+/************************* shoes end *********************/
+.banner2 img{
+	height: 636px;
+	width: 100%;
+}
+/***********************banner2 end***********************/
+.banner3{
+	margin-top: 8px;
+}
+.banner3 img{
+	width: 100%;
+}
+/********************banner3 end*********************/
+.modelling{
+	height: 537px;
+}
+.modelling img{
+	width: 351px;
+	height: 472px;
+	padding: 65px 0 0 385px;
+}
+/**********************modelling end*****************/
+.modelling-button{
+	height: 169px;
+}
+.modelling-button span{
+	width: 352px;
+	height: 64px;
+	display: block;
+	float: left;
+	background: #000000;
+	margin: 32px 0 0 385px;
+}
+.modelling-button span i{
+	display: block;
+	line-height: 64px;
+	color: white;
+	text-align: center;
+	font-weight: 900;
+}
+/*********************modelling-button end**************/
+.nearby{
+	height: 283px;
+	background: url('https://www.givenchy.com/on/demandware.static/-/Library-Sites-shared_GIV_Library/default/dw824440e4/Footer/FINDASTORE-DESKTOPb.jpg') no-repeat center center;
+	border-bottom: solid 1px #999999;
+}
+
+/**********************nearby end*******************/
+.mailbox{
+	height: 220px;
+	padding-top: 26px;
+	border-bottom: 1px solid #757575;
+}
+.mailbox1{
+		float: left;
+}
+.mailbox1 .i1{
+	font-size: 12px;
+	color: #757575;
+
+}
+.mailbox2{
+	float: left;
+		width: 256px;
+		height: 33px;
+		margin: 59px 0 0 134px;
+		border-bottom: solid 1px #757575;
+		
+}
+.mailbox2 a{
+	color: #757575;
+	font-size: 15px;
+}
+.mailbox3{
+	width: 255px;
+	height: 114px;
+	float: left;
+	padding: 60px 0 0 30px;
+}
+.mailbox3 p{
+	font-size: 11px;
+	color: #757575;
+}
+.mailbox4{
+	float: left;
+}
+.mailbox4 span{
+	width: 257px;
+	height: 64px;
+	display: block;
+	background: #767676;
+	margin: 27px 0 0 20px;
+}
+.mailbox4 span i{
+	display: block;
+	line-height: 64px;
+	color: white;
+	text-align: center;
+	font-weight: 900;
+}
+/*********************mailbox end*********************/
+.foot{
+	height: 355px;
+	padding-top: 67px;
+	border-bottom: 1px solid #757575;
+}
+.foot span{
+	font-size: 12px;
+	font-weight: 800;
+}
+.foot ul li{
+	font-size: 11px;
+	color: #757575;
+	height: 20px;
+}
+.foot ul{
+	padding-top: 35px;
+}
+.foot-1{
+	float: left;
+	width: 195px;
+	height: 145px;
+}
+.foot-2{
+	float: left;
+	width: 195px;
+	height: 145px;
+	
+}
+.foot-3{
+	float: left;
+	width: 193px;
+	height: 145px;
+}
+.foot-4{
+	float: right;
+}
+.foot-4 img{
+	width: 256px;
+	height: 176px;
+	
+}
+/**********************foot end********************/
+.last{
+	height: 65px;
+	
+}
+.last1{
+	padding-left: 841px;
+}
+.last span{
+	color: #000000;
+	font-size: 20px;
+	padding: 20px;
+	float: left;
+	
+}
+
+/*********************last end******************/

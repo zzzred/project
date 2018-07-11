@@ -1,0 +1,473 @@
+.main{
+	width: 1122px;
+	height: 100%;
+	margin: 0 auto;
+}
+.top{
+	height: 97px;
+	background-color:white
+	overflow: hidden;
+}
+.top-left{
+	float: left;
+	width: 180px;
+	padding: 31px 0 0 48px;
+	
+}
+.top-left a{
+	font-size: 10px;
+	color: #000;
+	font-weight: 900;
+	display: inline-block;
+	
+}
+.top-middle{
+	float: left;
+	width: 160px;
+	padding: 31px 0 0 282px;
+}
+.top-left p{
+	display: inline-block;
+}
+.top-right{
+	width: 60px;
+	height: 15px;
+	float: left;
+	margin: 33px 0 0 350px;
+}
+.top-right a{
+	color: #000;
+}
+.left_1{
+	float: left;
+	padding-right: 20px;
+}
+/*****landing*****/
+.landing{
+	width: 222px;
+	height: 260px;
+	background: #ffffff;
+	display: none;
+	position: absolute;
+	top: 56px;
+	left: 1000px;
+	text-align: center;
+	
+}
+.btn-default{
+	width: 173px;
+	height: 35px;
+	margin-top: 45px;
+	background: #000;
+	color: #ffffff;
+}
+.form-1{
+	height: 30px;
+	margin-top: 25px;
+}
+.form-2{
+	height: 30px;
+	margin-top: 25px;
+}
+.top-right .left_1:hover +.landing{
+	display: block;
+}
+/*****landing end*****/
+
+/****************** top end********************/
+.bracelet{
+	height: 455px;
+	background: #f4f2f3;
+}
+.bracelet-a{
+	float: left;
+	margin: 120px 0 0 396px;
+}
+.bracelet-a img{
+	width: 325px;
+	height: 325px;
+}
+.bracelet-b{
+	float: left;
+	margin: 121px 0 0 300px;
+}
+/**********************bracelet end***********/
+.green{
+	height: 553px;
+	text-align: center;
+}
+.green-a{
+
+}
+.green-a i{
+	font-size: 26px;
+	font-weight: 900;
+}
+.green-a p{
+	font-size: 10px;
+}
+.green-b{
+	margin-top: 108px;
+}
+.green-b i{
+	font-size: 16px;
+}
+.green-c{
+	text-align: center;
+	line-height: 38px;
+	margin-top: 20px;
+}
+.green-c a{
+	width: 204px;
+	height: 38px;
+	display: block;
+	color: #FFFFFF;
+	background: #000000;
+	margin-left: 458px;
+}
+.green-d{
+	margin-top: 20px;
+}
+.green-d .iconfont{
+	font-size: 38px;
+	color: #757575;
+}
+.green-e{
+	margin-top: 82px;
+}
+.green-e a{
+	color: #4E4E4E;
+}
+.green-f i{
+	font-size: 20px;
+	font-weight: 900;
+}
+.green-f{
+	margin-top: 120px;
+}
+/*******************green end********************/
+.gold{
+	height: 247px;
+	
+}
+.gold img{
+	width: 130px;
+	height: 130px;
+}
+.gold ul{
+		float: left;
+		padding: 10px 0 0 432px;
+		
+}
+.gold ul li{
+	float: left;
+}
+.gold ul li:nth-child(2){
+	padding-left: 6px;
+}
+/*********************gold end*********************/
+.introduce{
+	height: 499px;
+
+}
+.introduce-a{
+	width: 712px;
+	height: 194px;
+	background: #000000;
+	text-align: center;
+	margin-left: 288px;
+	position: absolute;
+	top: 1303px;
+}
+.introduce-a h2{
+	color: #fff;
+	padding-top: 26px;
+}
+.introduce-a p{
+	color: #fff;
+	font-size: 15px;
+	display: inline-block;
+	width: 685px;	
+	padding-top: 15px;
+}
+.introduce-a a{
+	color: #000;
+	display: inline-block;
+	width: 120px;
+	height: 34px;
+	background: #fff;
+	line-height: 34px;
+	margin-top: 32px;
+	
+}
+.introduce-b img{
+	width: 100%;
+	height: 500px;
+}
+/**********************introduce end***************/
+.texture{
+	height: 1324px;
+	position: relative;
+	background: #f4f2f3;
+}
+.texture-a img{
+	width: 1000px;
+	height: 1000px;
+	text-align: left;
+	position: absolute;
+	left: -310px;
+}
+.texture-b h2{
+	float: left;
+	padding:258px 0 0 620px;
+}
+.texture-c{
+	position: absolute;
+	top: 415px;
+	left: 692px;
+	float: left;
+}
+.texture-c span{
+	display: block;
+}
+.texture-c dt{
+	padding-top: 35px;
+	color: #757575;
+}
+.texture-c dd{
+	color: #000;
+	font-weight: 600;
+	
+}
+.texture-c dd a{
+	color: #000;
+}
+.texture-d{
+	float: left;
+	position: absolute;
+	top: 1280px;
+	left: 605px;
+}
+.texture-d p{
+	font-size: 20px;
+	font-weight: 700;
+}
+/*********************texture end****************/
+.watch{
+	height: 418px;
+	margin-top: 10px;
+}
+.watch-a{
+	width: 309px;
+	height: 402px;
+	background: #f4f2f3;
+	text-align: center;
+	float: left;
+	margin-left: 107px;
+}
+.watch-a i{
+	padding-top: 40px;
+	display: block;
+}
+.watch-a b{
+	padding-top: 40px;
+	display: block;
+}
+.watch-a p{
+	padding-top: 10px;
+	display: block;
+}
+.watch-a img{
+	width: 240px;
+	height: 240px;
+	padding-left: 41px;
+}
+
+
+.watch-b{
+	width: 309px;
+	height: 402px;
+	background: #f4f2f3;
+	text-align: center;
+	float: left;
+	margin-left: 6px;
+}
+.watch-b i{
+	padding-top: 40px;
+	display: block;
+}
+.watch-b b{
+	padding-top: 40px;
+	display: block;
+}
+.watch-b p{
+	padding-top: 10px;
+	display: block;
+}
+.watch-b img{
+	width: 240px;
+	height: 240px;
+	padding-left: 41px;
+}
+
+
+.watch-c{
+	width: 309px;
+	height: 402px;
+	background: #f4f2f3;
+	text-align: center;
+	float: left;
+	margin-left: 6px;
+}
+.watch-c i{
+	padding-top: 40px;
+	display: block;
+}
+.watch-c b{
+	padding-top: 40px;
+	display: block;
+}
+.watch-c p{
+	padding-top: 10px;
+	display: block;
+}
+.watch-c img{
+	width: 240px;
+	height: 240px;
+	padding-left: 41px;
+}
+/*********************watch end******************/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.nearby{
+	height: 283px;
+	background: url('https://www.givenchy.com/on/demandware.static/-/Library-Sites-shared_GIV_Library/default/dw824440e4/Footer/FINDASTORE-DESKTOPb.jpg') no-repeat center center;
+	border-bottom: solid 1px #999999;
+}
+
+/**********************nearby end*******************/
+.mailbox{
+	height: 220px;
+	padding-top: 26px;
+	border-bottom: 1px solid #757575;
+}
+.mailbox1{
+		float: left;
+}
+.mailbox1 .i1{
+	font-size: 12px;
+	color: #757575;
+
+}
+.mailbox2{
+	float: left;
+		width: 256px;
+		height: 33px;
+		margin: 59px 0 0 134px;
+		border-bottom: solid 1px #757575;
+		
+}
+.mailbox2 a{
+	color: #757575;
+	font-size: 15px;
+}
+.mailbox3{
+	width: 255px;
+	height: 114px;
+	float: left;
+	padding: 60px 0 0 30px;
+}
+.mailbox3 p{
+	font-size: 11px;
+	color: #757575;
+}
+.mailbox4{
+	float: left;
+}
+.mailbox4 span{
+	width: 257px;
+	height: 64px;
+	display: block;
+	background: #767676;
+	margin: 27px 0 0 20px;
+}
+.mailbox4 span i{
+	display: block;
+	line-height: 64px;
+	color: white;
+	text-align: center;
+	font-weight: 900;
+}
+/*********************mailbox end*********************/
+.foot{
+	height: 355px;
+	padding-top: 67px;
+	border-bottom: 1px solid #757575;
+}
+.foot span{
+	font-size: 12px;
+	font-weight: 800;
+}
+.foot ul li{
+	font-size: 11px;
+	color: #757575;
+	height: 20px;
+}
+.foot ul{
+	padding-top: 35px;
+}
+.foot-1{
+	float: left;
+	width: 195px;
+	height: 145px;
+}
+.foot-2{
+	float: left;
+	width: 195px;
+	height: 145px;
+	
+}
+.foot-3{
+	float: left;
+	width: 193px;
+	height: 145px;
+}
+.foot-4{
+	float: right;
+}
+.foot-4 img{
+	width: 256px;
+	height: 176px;
+	
+}
+/**********************foot end********************/
+.last{
+	height: 65px;
+	
+}
+.last1{
+	padding-left: 841px;
+}
+.last span{
+	color: #000000;
+	font-size: 20px;
+	padding: 20px;
+	float: left;
+	
+}
+
+/*********************last end******************/

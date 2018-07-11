@@ -1,0 +1,319 @@
+.main{
+	width: 1122px;
+	height: 100%;
+	margin: 0 auto;
+}
+.top{
+	height: 97px;
+	background-color:white
+	overflow: hidden;
+}
+.top-left{
+	float: left;
+	width: 180px;
+	padding: 31px 0 0 48px;
+	
+}
+.top-left a{
+	font-size: 10px;
+	color: #000;
+	font-weight: 900;
+	display: inline-block;
+	
+}
+.top-middle{
+	float: left;
+	width: 160px;
+	padding: 31px 0 0 282px;
+}
+.top-left p{
+	display: inline-block;
+}
+.top-right{
+	width: 60px;
+	height: 15px;
+	float: left;
+	margin: 33px 0 0 350px;
+}
+.top-right a{
+	color: #000;
+}
+.left_1{
+	float: left;
+	padding-right: 20px;
+}
+/*****landing*****/
+.landing{
+	width: 222px;
+	height: 260px;
+	background: #ffffff;
+	display: none;
+	position: absolute;
+	top: 56px;
+	left: 1000px;
+	text-align: center;
+	
+}
+.btn-default{
+	width: 173px;
+	height: 35px;
+	margin-top: 45px;
+	background: #000;
+	color: #ffffff;
+}
+.form-1{
+	height: 30px;
+	margin-top: 25px;
+}
+.form-2{
+	height: 30px;
+	margin-top: 25px;
+}
+.top-right .left_1:hover +.landing{
+	display: block;
+}
+/*****landing end*****/
+
+/****************** top end********************/
+
+
+
+.start{
+	height: 305px;
+	background: #fff;
+}
+.start-1{
+	float: left;
+}
+.start-1 i{
+	display: block;
+	margin: 96px 0 0 570px;
+	font-size: 12px;
+}
+.start-2{
+	float: left;
+}
+.start-2 h1{
+	margin: 114px 0 0 -88px;
+}
+.start-3{
+	float: left;
+	margin: 163px 0 0 -203px;
+}
+.start-3 b{
+	display: block;
+	width: 287px;
+	text-align:center;
+	color: #757575;
+}
+.start-4{
+	float: left;
+	margin: 288px 0 0 -185px;
+}
+.start-4 b{
+	font-size: 12px;
+	color: #757575;
+}
+/********************start end*****************/
+.a-form{
+	height: 485px;
+
+}
+form{
+	float: left;
+	text-align: center;
+	margin: 65px 0 0 295px;
+}
+.sex select{
+	width: 600px;
+	height: 50px;
+	color: #757575;
+}
+.nae{
+	width: 596px;
+	height: 50px;
+}
+.region select{
+	width: 600px;
+	height: 50px;
+	color: #757575;
+}
+.form-group-a{
+	width: 596px;
+	height: 50px;
+}
+.form-group-b{
+	width: 596px;
+	height: 50px;
+}
+.btn-a{
+	width: 300px;
+}
+.chenbox-a{
+	width: 600px;
+	color: #757575;
+	font-size: 12px;
+}
+/*******************form end********************/
+.help{
+	height: 256px;
+}
+.help-a{
+	width: 600px;
+	margin: 42px 0 0 295px;
+	float: left;
+}
+.help-a i{
+	display: block;
+	color: #757575;
+	font-size: 12px;
+}
+.help-b{
+	padding: 203px 0 0 541px;
+}
+.help-b h3{
+	display: block;
+	color: #000000;
+}
+/******************* help end*******************/
+.serve{
+	height: 130px;
+	border-bottom: 1px solid #9E9E9E;
+} 
+.serve-a{
+	width: 334px;
+	text-align: center;
+	float: left;
+	margin: 14px 0 0 119px;
+}
+.serve-a i{
+	font-size: 12px;
+	color: #757575;
+}
+.serve-b{
+	margin: 59px 0 0 447px;
+	float: left;
+	text-align: center;
+}
+.serve-b a{
+	color: #000000;
+}
+/**********************serve end***************/
+.nearby{
+	height: 283px;
+	background: url('https://www.givenchy.com/on/demandware.static/-/Library-Sites-shared_GIV_Library/default/dw824440e4/Footer/FINDASTORE-DESKTOPb.jpg') no-repeat center center;
+	border-bottom: solid 1px #999999;
+}
+
+/**********************nearby end*******************/
+.mailbox{
+	height: 220px;
+	padding-top: 26px;
+	border-bottom: 1px solid #757575;
+}
+.mailbox1{
+		float: left;
+}
+.mailbox1 .i1{
+	font-size: 12px;
+	color: #757575;
+
+}
+.mailbox2{
+	float: left;
+		width: 256px;
+		height: 33px;
+		margin: 59px 0 0 134px;
+		border-bottom: solid 1px #757575;
+		
+}
+.mailbox2 a{
+	color: #757575;
+	font-size: 15px;
+}
+.mailbox3{
+	width: 255px;
+	height: 114px;
+	float: left;
+	padding: 60px 0 0 30px;
+}
+.mailbox3 p{
+	font-size: 11px;
+	color: #757575;
+}
+.mailbox4{
+	float: left;
+}
+.mailbox4 span{
+	width: 257px;
+	height: 64px;
+	display: block;
+	background: #767676;
+	margin: 27px 0 0 20px;
+}
+.mailbox4 span i{
+	display: block;
+	line-height: 64px;
+	color: white;
+	text-align: center;
+	font-weight: 900;
+}
+/*********************mailbox end*********************/
+.foot{
+	height: 355px;
+	padding-top: 67px;
+	border-bottom: 1px solid #757575;
+}
+.foot span{
+	font-size: 12px;
+	font-weight: 800;
+}
+.foot ul li{
+	font-size: 11px;
+	color: #757575;
+	height: 20px;
+}
+.foot ul{
+	padding-top: 35px;
+}
+.foot-1{
+	float: left;
+	width: 195px;
+	height: 145px;
+}
+.foot-2{
+	float: left;
+	width: 195px;
+	height: 145px;
+	
+}
+.foot-3{
+	float: left;
+	width: 193px;
+	height: 145px;
+}
+.foot-4{
+	float: right;
+}
+.foot-4 img{
+	width: 256px;
+	height: 176px;
+	
+}
+/**********************foot end********************/
+.last{
+	height: 65px;
+	
+}
+.last1{
+	padding-left: 841px;
+}
+.last span{
+	color: #000000;
+	font-size: 20px;
+	padding: 20px;
+	float: left;
+	
+}
+
+/*********************last end******************/
